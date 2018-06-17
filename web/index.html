@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>IT Conference Wiki</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+    crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.10.18/css/jquery.dataTables.min.css">
+  <meta property="description" content="List of IT conferences and link to their CFP" />
+</head>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="jumbotron">
+          <h1>IT Conference Wiki</h1>
+          <p>
+            This project shows the power of WebAssembly. Each part of the wheel represents a programming language that can compile to
+            WebAssembly. Every time you spin the wheel, a program in the language it lands on generates a random number between
+            1 and 100.
+          </p>
+          <p>
+            <button type="button" class="btn btn-primary btn-lg" id="spinBtn">Spin the wheel</button>
+            <a rel="button" class="btn btn-default btn-lg" target="_blank" href="https://boyan.io/the-wheel-of-webassembly/">Read more</a>
+          </p>
+        </div>
+      </div>
+      <div class="col-md-12">
+        <table id="conf-list">
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Dates</th>
+              <th>Location</th>
+            </tr>
+          </thead>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdn.datatables.net/1.10.18/js/jquery.dataTables.min.js"></script>
+  <script>
+    $(function () {
+      $('#conf-list').DataTable({
+        ajax: {
+          url: '/conf.2018.json',
+          dataSrc: ''
+        },
+        columns: [
+          {
+            data: function (item) {
+              return `<a href="${item.url}" target="_blank" rel="nofollow noreferrer">${item.name}</a>`;
+            }
+          },
+          {
+            data: function (item) {
+              const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+
+              const parseDate = input => {
+                var parts = input.split('-');
+                return new Date(parseInt(parts[0], 10), parseInt(parts[1], 10) - 1, parseInt(parts[2], 10));
+              };
+
+              const formatDate = date => `${date.getDate()} ${monthNames[date.getMonth()]} ${date.getFullYear()}`;
+
+              if (item.startDate === item.endDate) {
+                return formatDate(parseDate(item.startDate));
+              } else {
+                const startDate = parseDate(item.startDate);
+                const endDate = parseDate(item.endDate);
+
+                if (startDate.getFullYear() !== endDate.getFullYear()) {
+                  return `${formatDate(startDate)} - ${formatDate(endDate)}`;
+                } else {
+                  if (startDate.getMonth() !== endDate.getMonth()) {
+                    return `${startDate.getDate()} ${monthNames[startDate.getMonth()]} - ${endDate.getDate()} ${monthNames[endDate.getMonth()]} ${endDate.getFullYear()}`;
+                  } else {
+                    return `${startDate.getDate()} - ${endDate.getDate()} ${monthNames[endDate.getMonth()]} ${endDate.getFullYear()}`;
+                  }
+                }
+              }
+            }
+          },
+          { data: 'location' }
+        ],
+        paging: false
+      });
+    });
+  </script>
+</body>

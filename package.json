@@ -1,0 +1,25 @@
+{
+    "name": "itconfwiki",
+    "title": "IT Conference Wiki",
+    "author": {
+        "name": "Boyan Mihaylov",
+        "url": "https://boyan.io"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/boyanio/itconfwiki.git"
+    },
+    "version": "1.0.0",
+    "scripts": {
+        "serve": "node serve.js"
+    },
+    "devDependencies": {
+        "@types/es6-promise": "^3.3.0",
+        "@types/node": "^10.3.3",
+        "connect": "^3.6.6",
+        "jsdom": "^11.11.0",
+        "serve-static": "^1.13.2",
+        "typescript": "^2.9.2"
+    }
+}

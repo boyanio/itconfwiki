@@ -1,0 +1,2100 @@
+[
+  {
+    "url": "https://www.meetup.com/gatewayjug/",
+    "name": "St. Louis Java Users Group",
+    "endDate": "2018-11-07T23:00:00.000Z",
+    "startDate": "2018-02-07T23:00:00.000Z",
+    "keywords": "Java,Jvm,Android,Devops,Microservices,Grails,Kotlin,Scala,Javaee,Spring,Web services,Big data",
+    "location": "St. Louis, Missouri",
+    "cfp": {
+      "deadline": "2018-12-31T13:12:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/stlouisjug"
+    }
+  },
+  {
+    "url": "https://www.meetup.com/gdgsjc",
+    "name": "GDG SJC Meetups 2018 - Call 4 Papers",
+    "endDate": "2018-10-26T22:00:00.000Z",
+    "startDate": "2018-02-16T23:00:00.000Z",
+    "keywords": "Web,Mobile,Desktop,Javascript,Java,React,Android,Vue.js,Angular,Cloud,Google,Node.js,Vanilla",
+    "location": "São José dos Campos",
+    "cfp": {
+      "deadline": "2018-12-31T23:59:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/gdgsjc-meetups2018"
+    }
+  },
+  {
+    "url": "https://www.meetup.com/full-stack-to/",
+    "name": "Full Stack Toronto Dinner Series",
+    "endDate": "2018-10-09T22:00:00.000Z",
+    "startDate": "2018-04-10T22:00:00.000Z",
+    "keywords": "",
+    "location": "Toronto, CA",
+    "cfp": {
+      "deadline": "2018-12-31T07:12:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/fsto-dinner"
+    }
+  },
+  {
+    "url": "https://www.meetup.com/Limerick-DotNet/events/",
+    "name": "Limerick DotNet-Azure User Group (LDNA)",
+    "endDate": "2018-04-13T22:00:00.000Z",
+    "startDate": "2018-05-23T22:00:00.000Z",
+    "keywords": ".net,Azure,Meetup",
+    "location": "Limerick, Ireland",
+    "cfp": {
+      "deadline": "2019-12-31T23:12:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/ldna"
+    }
+  },
+  {
+    "url": "http://charrua.org",
+    "name": "CharruaCon Security Conference",
+    "endDate": "2018-08-24T22:00:00.000Z",
+    "startDate": "2018-05-23T22:00:00.000Z",
+    "keywords": "",
+    "location": "Montevideo, Uruguay",
+    "cfp": null
+  },
+  {
+    "url": "https://www.meetup.com/DevSecOps-Singapore/",
+    "name": "DevSecOps Singapore Meetup",
+    "endDate": "2018-08-10T22:00:00.000Z",
+    "startDate": "2018-06-10T22:00:00.000Z",
+    "keywords": "",
+    "location": "Singapore",
+    "cfp": {
+      "deadline": "2019-01-11T11:01:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/devsecopssg"
+    }
+  },
+  {
+    "url": "https://containerdays.io/",
+    "name": "ContainerDays 2018",
+    "endDate": "2018-06-19T22:00:00.000Z",
+    "startDate": "2018-06-17T22:00:00.000Z",
+    "keywords": "Kubernetes,Docker,Orchestration,Monitoring,Prometheus,Storage,Open source,Devops,Automation,Ci/cd,Microservices,Cloud native,Container technologies",
+    "location": "Hamburg",
+    "cfp": null
+  },
+  {
+    "url": "https://werise.tech/",
+    "name": "We RISE Tech Conference",
+    "endDate": "2018-06-21T22:00:00.000Z",
+    "startDate": "2018-06-20T22:00:00.000Z",
+    "keywords": "Front-end,Back-end,Cool $h!t,Leadership/ career,Product/ ux/ ui,Workshop,101 codelab,Community",
+    "location": "Atlanta, GA",
+    "cfp": null
+  },
+  {
+    "url": "http://www.angular-up.com",
+    "name": "AngularUP",
+    "endDate": "2018-06-20T22:00:00.000Z",
+    "startDate": "2018-06-20T22:00:00.000Z",
+    "keywords": "Angular,Angular js,Frontend development,Javascript",
+    "location": "Tel Aviv, Israel",
+    "cfp": null
+  },
+  {
+    "url": "https://www.meetup.com/Test-in-Production/",
+    "name": "Bay Area Test In Production Meetup",
+    "endDate": "2018-07-24T22:00:00.000Z",
+    "startDate": "2018-06-20T22:00:00.000Z",
+    "keywords": "",
+    "location": "San Francisco Bay Area",
+    "cfp": {
+      "deadline": "2019-01-03T14:01:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/testinproduction"
+    }
+  },
+  {
+    "url": "https://www.papercall.io/piodevelopersummit",
+    "name": "PlatformIO Developer Summit",
+    "endDate": "2018-06-21T22:00:00.000Z",
+    "startDate": "2018-06-20T22:00:00.000Z",
+    "keywords": "Platformio,Iot",
+    "location": "Berlin, Germany",
+    "cfp": null
+  },
+  {
+    "url": "https://www.meetup.com/pt-BR/Training-Center-SP",
+    "name": "TC Talks #10",
+    "endDate": "2018-06-20T22:00:00.000Z",
+    "startDate": "2018-06-20T22:00:00.000Z",
+    "keywords": "",
+    "location": "Unknown",
+    "cfp": {
+      "deadline": "2018-06-21T16:06:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/tctalks10"
+    }
+  },
+  {
+    "url": "http://rebelcon.io",
+    "name": "RebelCon Cork 2018",
+    "endDate": "2018-06-21T22:00:00.000Z",
+    "startDate": "2018-06-20T22:00:00.000Z",
+    "keywords": "",
+    "location": "Cork, Ireland",
+    "cfp": null
+  },
+  {
+    "url": "http://beercitycode.com",
+    "name": "Beer City Code 2018",
+    "endDate": "2018-06-22T22:00:00.000Z",
+    "startDate": "2018-06-21T22:00:00.000Z",
+    "keywords": "Other,Quality,Database,Startup/entrepreneur,Ux/design,Desktop,Devops,Architecture,Process,Web,Soft skills,Cloud,Big data,Iot,Mobile",
+    "location": "Grand Rapids, MI",
+    "cfp": null
+  },
+  {
+    "url": "http://www.hyderabadtrailblazin.com/",
+    "name": "Hyderabad Trailblazin'",
+    "endDate": "2018-06-22T22:00:00.000Z",
+    "startDate": "2018-06-22T22:00:00.000Z",
+    "keywords": "Salesforce,Apex,Lightning,Einstein,Salesforcedx,Community,Ohana,Equality,Trailhead",
+    "location": "HICC Novotel Hyderabad , India",
+    "cfp": null
+  },
+  {
+    "url": "http://cardiff2018.satrdays.org/",
+    "name": "satRday Cardiff 2018",
+    "endDate": "2018-06-22T22:00:00.000Z",
+    "startDate": "2018-06-22T22:00:00.000Z",
+    "keywords": "Live demo,Sponsor,Business - use case,Business - experience,Code - introduction to,Code - hobby/inspiration,R,Data science",
+    "location": "Main Building, Cardiff University, Cardiff, Wales",
+    "cfp": null
+  },
+  {
+    "url": "http://meetup.com/GDG-Addis",
+    "name": "Google I/O Extended 2018 Addis",
+    "endDate": "2018-06-23T22:00:00.000Z",
+    "startDate": "2018-06-22T22:00:00.000Z",
+    "keywords": "",
+    "location": "American Center  Inside Wemezekir, Around National Theater, Behind Commercial Bank of Ethiopia Header Quarter · Addis Ababa",
+    "cfp": null
+  },
+  {
+    "url": "https://commcon.xyz",
+    "name": "CommCon 2018",
+    "endDate": "2018-06-24T22:00:00.000Z",
+    "startDate": "2018-06-24T22:00:00.000Z",
+    "keywords": "",
+    "location": "Wotton House, Dorking, Surrey, UK",
+    "cfp": null
+  },
+  {
+    "url": "https://paris-container-day.fr",
+    "name": "Paris Container Day 2018",
+    "endDate": "2018-06-25T22:00:00.000Z",
+    "startDate": "2018-06-25T22:00:00.000Z",
+    "keywords": "Ci/cd,Devops,Cloud native,Orchestration,Cloud,Developer,Security,Infra,Monitoring,Tooling",
+    "location": "Paris, France",
+    "cfp": null
+  },
+  {
+    "url": "https://www.devopsdays.org/events/2018-amsterdam/",
+    "name": "devopsdays Amsterdam 2018",
+    "endDate": "2018-06-28T22:00:00.000Z",
+    "startDate": "2018-06-26T22:00:00.000Z",
+    "keywords": "Containers,Culture,Config management,Management,Devops,Kubernetes,Ansible,Chef,Puppet,Warstory,Serverless,Cloud,Diversity,Agile,Ci/cd,Docker,Aws,Azure,Gce",
+    "location": "Amsterdam, NL",
+    "cfp": null
+  },
+  {
+    "url": "https://thecybersummitonline.com",
+    "name": "THE Cyber Summit Online",
+    "endDate": "2018-06-27T22:00:00.000Z",
+    "startDate": "2018-06-27T22:00:00.000Z",
+    "keywords": "Technical,Ciso,Devops,Cloud,Aws,Azure,Patch management,Vulnerability assessment,Incident response,Pentesting,Redteam,Blueteam,Owasp,Social engineering,Phishing,Malware,Ransomware,Microsoft,User awareness,Cyber culture,Iot,Byod,Physical security,Crystal ball,Black magic,Trade craft,Darknet,Black ops",
+    "location": "Internet, vConferenceOnline.com",
+    "cfp": null
+  },
+  {
+    "url": "https://www.makebetter.com.jm",
+    "name": "Make.Better.",
+    "endDate": "2018-09-26T22:00:00.000Z",
+    "startDate": "2018-06-27T22:00:00.000Z",
+    "keywords": "Devops,Ux,User research,Frameworks,Testings,Qa,Design methodologies,Agile,Scrum,Kanban,Best practices,Php,Open source,Automated testing,Web,Iot,Artificial intelligence,Cloud,Design thinking,Design systems,Design,Python,Ruby,Go,Scala,C#,.net,Flask,Pyramid,Django,Rails,Laravel,React,Angular,Vuejs,Javascript,Java",
+    "location": "Kingston, Jamaica",
+    "cfp": {
+      "deadline": "2018-06-22T06:06:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/makebetter"
+    }
+  },
+  {
+    "url": "http://djangoindaba.com",
+    "name": "Django Indaba - \"The event for Pizza lovers and web development\"",
+    "endDate": "2018-06-29T22:00:00.000Z",
+    "startDate": "2018-06-29T22:00:00.000Z",
+    "keywords": "Django,Web2py,Graphene,Django-restframework,Python,Ember,React,Angular,Plone,Graphql,Flask,Docker,Lxd",
+    "location": "Harare, Zimbabwe",
+    "cfp": {
+      "deadline": "2018-06-18T23:06:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/django-indaba"
+    }
+  },
+  {
+    "url": "https://www.papercall.io/fsas",
+    "name": "Facility Services Annual Summit",
+    "endDate": "2018-06-29T22:00:00.000Z",
+    "startDate": "2018-06-29T22:00:00.000Z",
+    "keywords": "",
+    "location": "Cincinatti, OH",
+    "cfp": null
+  },
+  {
+    "url": "https://pyconweb.com",
+    "name": "PyConWeb 2018",
+    "endDate": "2018-06-30T22:00:00.000Z",
+    "startDate": "2018-06-29T22:00:00.000Z",
+    "keywords": "Css,Html,Javascript,Python,Python3,Asyncio,Tornado,Django,Pyramid,Flask,Plone",
+    "location": "Munich",
+    "cfp": null
+  },
+  {
+    "url": "http://www.seladeveloperpractice.com",
+    "name": "Sela Developer Practice",
+    "endDate": "2018-07-02T22:00:00.000Z",
+    "startDate": "2018-06-30T22:00:00.000Z",
+    "keywords": "",
+    "location": "Tel-Aviv, Israel",
+    "cfp": null
+  },
+  {
+    "url": "http://www.sophiaconf.fr",
+    "name": "SophiaConf 2018",
+    "endDate": "2018-07-04T22:00:00.000Z",
+    "startDate": "2018-07-01T22:00:00.000Z",
+    "keywords": "Ia,Iot,Devops &amp; cloud,Technologies populaires,Workshop",
+    "location": "Sophia Antipolis, France",
+    "cfp": null
+  },
+  {
+    "url": "https://www.meetup.com/DevOpsTO/",
+    "name": "DevOps TO Monthly series",
+    "endDate": "2019-04-01T22:00:00.000Z",
+    "startDate": "2018-07-02T22:00:00.000Z",
+    "keywords": "Devops,Culture,Scaling,Cicd,Workshop,Talk,Panel,Lightning,Logging,Monitoring,Alerting,Saas,Paas,Iaas,Security,Compliance,Serverless,Automation,Infrastructure,Cloud,Workflow,Agile,Data",
+    "location": "Toronto, ON, Canada",
+    "cfp": {
+      "deadline": "2025-03-01T11:03:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/devopsto"
+    }
+  },
+  {
+    "url": "https://london.serverlessdays.io",
+    "name": "ServerlessDays London",
+    "endDate": "2018-07-05T22:00:00.000Z",
+    "startDate": "2018-07-05T22:00:00.000Z",
+    "keywords": "Aws,Azure,Google cloud platform,Ibm cloud,Javascript,Go,Python,Php,C#,Java,F#",
+    "location": "London",
+    "cfp": null
+  },
+  {
+    "url": "https://www.meetup.com/openstack/",
+    "name": "OpenInfrastructure Tech &amp; OpenStack Birthday Social",
+    "endDate": "2018-07-09T22:00:00.000Z",
+    "startDate": "2018-07-09T22:00:00.000Z",
+    "keywords": "",
+    "location": "San Jose, CA",
+    "cfp": {
+      "deadline": "2018-06-19T00:06:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/openstack-8th-san-jose"
+    }
+  },
+  {
+    "url": "http://www.dashcon.io",
+    "name": "Dash",
+    "endDate": "2018-07-11T22:00:00.000Z",
+    "startDate": "2018-07-10T22:00:00.000Z",
+    "keywords": "",
+    "location": "New York, NY",
+    "cfp": null
+  },
+  {
+    "url": "https://www.middevcon.com/",
+    "name": "Mid-Atlantic Developers Conference",
+    "endDate": "2018-07-13T22:00:00.000Z",
+    "startDate": "2018-07-12T22:00:00.000Z",
+    "keywords": "Javascript,Python,Php,Ruby,Java,Go,Swift,Asp,Haskell,C,C++,C#,Frameworks,Deployment,Devops,Database,Caching,Performance,Scaling,Apis,Chatbots,Authentication,Security,Open source,Leadership,Mentoring,Health,Work-life balance,Management,Customer service",
+    "location": "Baltimore, MD",
+    "cfp": null
+  },
+  {
+    "url": "http://2018.uxbristol.org.uk",
+    "name": "UXBristol 2018",
+    "endDate": "2018-07-12T22:00:00.000Z",
+    "startDate": "2018-07-12T22:00:00.000Z",
+    "keywords": "",
+    "location": "Bristol, UK",
+    "cfp": null
+  },
+  {
+    "url": "https://droidjam.in",
+    "name": "DroidJam India 2018",
+    "endDate": "2018-07-13T22:00:00.000Z",
+    "startDate": "2018-07-12T22:00:00.000Z",
+    "keywords": "Android",
+    "location": "Bengaluru",
+    "cfp": null
+  },
+  {
+    "url": "http://frontinsampa.com.br",
+    "name": "Front In Sampa 2018",
+    "endDate": "2018-07-13T22:00:00.000Z",
+    "startDate": "2018-07-13T22:00:00.000Z",
+    "keywords": "Html,Css,Javascript,React,Angular,Vue,Ux,Ui,Design,Acessibilidade,Frontend,Rails,Agile,Iot,Ia,Chatbots",
+    "location": "Sao Paulo, Brasil",
+    "cfp": null
+  },
+  {
+    "url": "https://tokyo-2018.devrel.net",
+    "name": "DevRelCon Tokyo 2018",
+    "endDate": "2018-07-14T22:00:00.000Z",
+    "startDate": "2018-07-14T22:00:00.000Z",
+    "keywords": "Developer,Marketing,Opensource,Devrel",
+    "location": "Tokyo, Japan",
+    "cfp": null
+  },
+  {
+    "url": "https://www.anxietytech.com",
+    "name": "AnxietyTech",
+    "endDate": "2018-07-17T22:00:00.000Z",
+    "startDate": "2018-07-17T22:00:00.000Z",
+    "keywords": "Mental health,Virtual reality,Machine learning,Artificial intelligence,Robots,Robitics,Anxiety,Ocd,Ptsd",
+    "location": "San Francisco, CA",
+    "cfp": null
+  },
+  {
+    "url": "https://codeclimate.com/summit/",
+    "name": "Code Climate Summit",
+    "endDate": "2018-07-17T22:00:00.000Z",
+    "startDate": "2018-07-17T22:00:00.000Z",
+    "keywords": "",
+    "location": "San Francisco, CA",
+    "cfp": null
+  },
+  {
+    "url": "https://www.webcraft.com.jm",
+    "name": "WebCraftConf",
+    "endDate": "2018-07-19T22:00:00.000Z",
+    "startDate": "2018-07-17T22:00:00.000Z",
+    "keywords": "Ux,Design,Software craftsmanship,Devops,Information architecture,Mobile,Pwa,Internet of things,Continuous integration,Continuous delivery,Noops,Browser apis,Machine learning,Ai,Blockchain",
+    "location": "Jamaica",
+    "cfp": null
+  },
+  {
+    "url": "https://codeclimate.com/summit/",
+    "name": "Code Climate Summit -- Lightning Talks",
+    "endDate": "2018-07-17T22:00:00.000Z",
+    "startDate": "2018-07-17T22:00:00.000Z",
+    "keywords": "",
+    "location": "San Francisco, CA",
+    "cfp": null
+  },
+  {
+    "url": "http://scotlandcss.com",
+    "name": "Scotland CSS 2018",
+    "endDate": "2018-07-17T22:00:00.000Z",
+    "startDate": "2018-07-17T22:00:00.000Z",
+    "keywords": "",
+    "location": "Edinburgh, Scotland",
+    "cfp": null
+  },
+  {
+    "url": "http://scotlandjs.com",
+    "name": "Scotland JS 2018",
+    "endDate": "2018-07-19T22:00:00.000Z",
+    "startDate": "2018-07-18T22:00:00.000Z",
+    "keywords": "",
+    "location": "Edinburgh, Scotland",
+    "cfp": null
+  },
+  {
+    "url": "https://www.devopsdays.org/events/2018-indianapolis/",
+    "name": "DevOpsDays Indianapolis",
+    "endDate": "2018-07-23T22:00:00.000Z",
+    "startDate": "2018-07-22T22:00:00.000Z",
+    "keywords": "Devops,Inclusion,Agile,Continuous improvement,Automation,Devopsdays,Lean",
+    "location": "Indianapolis, IN",
+    "cfp": null
+  },
+  {
+    "url": "https://www.mixsummit-ai.com",
+    "name": "MIX-AI Summit",
+    "endDate": "2018-07-25T22:00:00.000Z",
+    "startDate": "2018-07-23T22:00:00.000Z",
+    "keywords": "Machine learning,Artificial intelligence",
+    "location": "Dublin, Ireland",
+    "cfp": null
+  },
+  {
+    "url": "https://nejsconf.com",
+    "name": "Nebraska JavaScript Conference 2018",
+    "endDate": "2018-07-26T22:00:00.000Z",
+    "startDate": "2018-07-26T22:00:00.000Z",
+    "keywords": "Javascript,Typescript,React,Css,Community,Front-end,Node.js,Clojurescript",
+    "location": "Omaha, NE",
+    "cfp": null
+  },
+  {
+    "url": "https://carolina.codes",
+    "name": "Carolina Code Conf",
+    "endDate": "2018-07-27T22:00:00.000Z",
+    "startDate": "2018-07-27T22:00:00.000Z",
+    "keywords": "",
+    "location": "Greenville, SC",
+    "cfp": {
+      "deadline": "2018-06-30T15:06:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/carolina-code-conf"
+    }
+  },
+  {
+    "url": "https://nonbinary.tech/",
+    "name": "Non-Binary in Tech 2018",
+    "endDate": "2018-07-27T22:00:00.000Z",
+    "startDate": "2018-07-27T22:00:00.000Z",
+    "keywords": "",
+    "location": "Goldsmiths, University of London",
+    "cfp": null
+  },
+  {
+    "url": "http://www.jaipurdevfest.com",
+    "name": "Jaipur Dev Fest 2018",
+    "endDate": "2018-07-27T22:00:00.000Z",
+    "startDate": "2018-07-27T22:00:00.000Z",
+    "keywords": "",
+    "location": "Jaipur, India",
+    "cfp": {
+      "deadline": "2018-07-01T16:07:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/jdf18"
+    }
+  },
+  {
+    "url": "https://www.papercall.io/gonw",
+    "name": "Go Northwest",
+    "endDate": "2018-07-29T22:00:00.000Z",
+    "startDate": "2018-07-29T22:00:00.000Z",
+    "keywords": "Go,Seattle",
+    "location": "Seattle, WA",
+    "cfp": null
+  },
+  {
+    "url": "https://www.gophercon.co.uk",
+    "name": "GopherCon UK  2018",
+    "endDate": "2018-08-02T22:00:00.000Z",
+    "startDate": "2018-07-31T22:00:00.000Z",
+    "keywords": "Code quality,Testing,Libraries/frameworks,Devops,Language fundamentals,Architecture/design patterns,Security,Case study,Databases,Ai/ml/research,Performance/concurrency/scalability,Apis/microservices,Internals/compiler/language development",
+    "location": "London, UK",
+    "cfp": null
+  },
+  {
+    "url": "http://www.writespeakcode.com/2018/index.html",
+    "name": "Write/Speak/Code 2018",
+    "endDate": "2018-08-03T22:00:00.000Z",
+    "startDate": "2018-07-31T22:00:00.000Z",
+    "keywords": "",
+    "location": "New York, NY",
+    "cfp": null
+  },
+  {
+    "url": "https://southeastruby.com",
+    "name": "Southeast Ruby",
+    "endDate": "2018-08-02T22:00:00.000Z",
+    "startDate": "2018-08-01T22:00:00.000Z",
+    "keywords": "Ruby,Rails",
+    "location": "Nashville, TN",
+    "cfp": null
+  },
+  {
+    "url": "https://www.papercall.io/devopsdayssm2018",
+    "name": "DevOps Day Santa Maria",
+    "endDate": "2018-08-03T22:00:00.000Z",
+    "startDate": "2018-08-03T22:00:00.000Z",
+    "keywords": "Devops,Brazil,Santa maria,Tech",
+    "location": "UFN/Unifra - Santa Maria, Brazil, Rua Silva Jardim, 1175, Bairro Rosário",
+    "cfp": {
+      "deadline": "2018-07-01T00:07:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/devopsdayssm2018"
+    }
+  },
+  {
+    "url": "https://www.papercall.io/drc18",
+    "name": "DeccanRubyConf 2018 - Pune",
+    "endDate": "2018-08-03T22:00:00.000Z",
+    "startDate": "2018-08-03T22:00:00.000Z",
+    "keywords": "Ruby",
+    "location": "Sheraton Grand, Pune",
+    "cfp": {
+      "deadline": "2018-06-30T22:06:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/drc18"
+    }
+  },
+  {
+    "url": "https://www.meetup.com/Go-Silicon-Valley",
+    "name": "Go Silicon Valley",
+    "endDate": "2018-08-05T22:00:00.000Z",
+    "startDate": "2018-08-05T22:00:00.000Z",
+    "keywords": "Go,Cloud,Distributed systems,Backend engineering,Software,San francisco,San jose,Golang",
+    "location": "San Francisco South Bay",
+    "cfp": {
+      "deadline": "2018-07-31T20:07:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/go-silicon-valley"
+    }
+  },
+  {
+    "url": "http://juliacon.org/2018",
+    "name": "JuliaCon 2018",
+    "endDate": "2018-08-10T22:00:00.000Z",
+    "startDate": "2018-08-06T22:00:00.000Z",
+    "keywords": "Statistics,Machine learning,Finance,Economics,Optimization,Autodifferentiation,Bioinformatics,Physics,Differential equations,Gpu,Parallel,Aerospace,Geo,Visualisation,Numerics,Julia internals (compiler/debugging/profiling),Tooling (editors/linters/...),Health/medicine/health disparities,Software engineering best practices,Social sciences,Natural language processing,Algorithms,Linear algebra,Data science,Community,Scientific computing,Industry applications,Life sciences",
+    "location": "London, UK",
+    "cfp": null
+  },
+  {
+    "url": "https://www.salespad.net/panels/",
+    "name": "PANELS 2018",
+    "endDate": "2018-08-05T22:00:00.000Z",
+    "startDate": "2018-08-06T22:00:00.000Z",
+    "keywords": "Operational erp,Erp,Manufacturing,Ecommerce,Crm,Edi,Innovative,Software,Warehousing,Supply chain",
+    "location": "Grand Rapids, MI",
+    "cfp": null
+  },
+  {
+    "url": "https://www.associationforsoftwaretesting.org/conference/cast-2018/",
+    "name": "CAST 2018",
+    "endDate": "2018-08-08T22:00:00.000Z",
+    "startDate": "2018-08-07T22:00:00.000Z",
+    "keywords": "",
+    "location": "Cocoa Beach, Florida",
+    "cfp": null
+  },
+  {
+    "url": "http://www.passiontalks.org",
+    "name": "Passion Talks",
+    "endDate": "2018-08-10T22:00:00.000Z",
+    "startDate": "2018-08-09T22:00:00.000Z",
+    "keywords": "Justice,Diversity,Culture,Science,Medicine,Education,Leadership,Identity,Business,Theology,Creativity,Technology,Personal development",
+    "location": "Silicon Valley",
+    "cfp": null
+  },
+  {
+    "url": "http://droids4droids.co/",
+    "name": "Droids 4 Droids Colombia",
+    "endDate": "2018-08-17T22:00:00.000Z",
+    "startDate": "2018-08-16T22:00:00.000Z",
+    "keywords": "",
+    "location": "Medellin, Colombia",
+    "cfp": {
+      "deadline": "2018-06-30T23:06:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/d4dco"
+    }
+  },
+  {
+    "url": "http://www.sceniccitysummit.com",
+    "name": "Scenic City Summit 2018",
+    "endDate": "2018-08-16T22:00:00.000Z",
+    "startDate": "2018-08-16T22:00:00.000Z",
+    "keywords": "",
+    "location": "Chattanooga,TN",
+    "cfp": null
+  },
+  {
+    "url": "https://oggcamp.org",
+    "name": "OggCamp '18",
+    "endDate": "2018-08-18T22:00:00.000Z",
+    "startDate": "2018-08-17T22:00:00.000Z",
+    "keywords": "Free / libre or open source software,Open hardware,Digital rights,Free culture,Personal skills,Others",
+    "location": "Sheffield, UK",
+    "cfp": null
+  },
+  {
+    "url": "http://theanalyticssummit.com/",
+    "name": "2018 Nashville Analytics Summit",
+    "endDate": "2018-08-20T22:00:00.000Z",
+    "startDate": "2018-08-19T22:00:00.000Z",
+    "keywords": "",
+    "location": "Omni Hotel, Downtown Nashville",
+    "cfp": {
+      "deadline": "2018-07-28T22:07:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/theanalyticssummit"
+    }
+  },
+  {
+    "url": "http://rubyconf.nairuby.org/2018",
+    "name": "Ruby Conference Kenya 2018",
+    "endDate": "2018-06-21T22:00:00.000Z",
+    "startDate": "2018-08-20T22:00:00.000Z",
+    "keywords": "",
+    "location": "Nairobi, Kenya",
+    "cfp": null
+  },
+  {
+    "url": "https://sensu.io/summit",
+    "name": "Sensu Summit 2018",
+    "endDate": "2018-08-22T22:00:00.000Z",
+    "startDate": "2018-08-21T22:00:00.000Z",
+    "keywords": "Sensu,Monitoring,Data,Software,Configurationmanagement,Go,Ruby,Python,Devops,Operations,Chef,Puppet,Ansible,Influxdb,Nagios,Datadog,Prometheus",
+    "location": "Portland, Oregon",
+    "cfp": null
+  },
+  {
+    "url": "http://latinity.info",
+    "name": "LAtINiTY",
+    "endDate": "2018-08-24T22:00:00.000Z",
+    "startDate": "2018-08-23T22:00:00.000Z",
+    "keywords": "Academia,Industria,Sociedad,Academic,Society,Industry,Acadêmico,Indústria,Women in computing,Women in tech,Women in steam",
+    "location": "Bogotá ",
+    "cfp": null
+  },
+  {
+    "url": "https://2018.pycon-au.org",
+    "name": "PyCon Australia 2018",
+    "endDate": "2018-08-25T22:00:00.000Z",
+    "startDate": "2018-08-23T22:00:00.000Z",
+    "keywords": "Djangocon,Internet of things,Education,Security and privacy,General conference",
+    "location": "Sydney, Australia",
+    "cfp": null
+  },
+  {
+    "url": "https://pycon.my/",
+    "name": "PyCon MY 2018",
+    "endDate": "2018-08-25T22:00:00.000Z",
+    "startDate": "2018-08-24T22:00:00.000Z",
+    "keywords": "",
+    "location": "Kuala Lumpur, MY",
+    "cfp": {
+      "deadline": "2018-08-04T04:08:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/pycon-my2018"
+    }
+  },
+  {
+    "url": "https://educode.be",
+    "name": "Educode2018",
+    "endDate": "2018-08-28T22:00:00.000Z",
+    "startDate": "2018-08-26T22:00:00.000Z",
+    "keywords": "Python,Scratch,Arduino,Raspberry pi,Expeyes,Makey makey,Micropython,Fun,Robots,Lego,Web",
+    "location": "Brussels, Belgium",
+    "cfp": null
+  },
+  {
+    "url": "http://educode.be",
+    "name": "EduCode2018",
+    "endDate": "2018-08-28T22:00:00.000Z",
+    "startDate": "2018-08-26T22:00:00.000Z",
+    "keywords": "Computational thinking,Python,Scratch,Makey makey,Arduino,Disconnected coding,Fun,Learning,Teaching,Exchange of experience,Scientific reports,Digital learning",
+    "location": "Brussels, Belgium",
+    "cfp": null
+  },
+  {
+    "url": "https://db-planet.deutschebahn.com/workspaces/devops-community/apps/wiki/wiki-3/list/view/2945bec6-15ea-45b1-9994-21a824e554f7",
+    "name": "3. Cloud Bar Camp @DB",
+    "endDate": "2018-08-27T22:00:00.000Z",
+    "startDate": "2018-08-27T22:00:00.000Z",
+    "keywords": "",
+    "location": "Steigerwaldstadion Erfurt",
+    "cfp": {
+      "deadline": "2018-07-29T13:07:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/cloudbarcamp"
+    }
+  },
+  {
+    "url": "https://www.gophercon.com",
+    "name": "GopherCon 2018",
+    "endDate": "2018-08-28T22:00:00.000Z",
+    "startDate": "2018-08-27T22:00:00.000Z",
+    "keywords": "",
+    "location": "Denver, CO",
+    "cfp": null
+  },
+  {
+    "url": "https://www.devopsdays.org/events/2018-chicago",
+    "name": "DevOpsDays Chicago 2018",
+    "endDate": "2018-08-28T22:00:00.000Z",
+    "startDate": "2018-08-27T22:00:00.000Z",
+    "keywords": "New speaker,Midwest,Chicago,Compliance,Security,Docker,Culture,Monitoring,Enterprise,Workflows,Stories",
+    "location": "Chicago, IL",
+    "cfp": null
+  },
+  {
+    "url": "https://www.codercruise.com/",
+    "name": "CoderCruise 2018",
+    "endDate": "2018-09-02T22:00:00.000Z",
+    "startDate": "2018-08-29T22:00:00.000Z",
+    "keywords": "Php,Python,Javascript,Java,Ruby,Rails,Angular,Html,Css,Go,Perl,C,Frameworks,Devops,Life skills,Robots,Mobile development,Swift,Ios,Andriod,Chatbots,Leadership,Mentorship,Community,Professional development,C#,Asp,Objective-c,Security,Testing,Databases,Nosql,Ui/ux,Internet of things,Django,Sql,Family talk,Learning to code,Deployment,Tooling,React,Redux,Rxjs,Vue.js,Node,Laravel,.net",
+    "location": "Ft. Lauderdale &amp; Bahamas",
+    "cfp": null
+  },
+  {
+    "url": "https://byteconf.com",
+    "name": "Byteconf React 2018",
+    "endDate": "2018-08-30T22:00:00.000Z",
+    "startDate": "2018-08-29T22:00:00.000Z",
+    "keywords": "",
+    "location": "Online",
+    "cfp": {
+      "deadline": "2018-06-24T23:06:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/byteconfreact2018"
+    }
+  },
+  {
+    "url": "https://www.devopsdays.org/events/2018-dallas/welcome/",
+    "name": "DevOpsDays Dallas 2018",
+    "endDate": "2018-08-30T22:00:00.000Z",
+    "startDate": "2018-08-29T22:00:00.000Z",
+    "keywords": "Serverless,Safe,Iot,Cloud,Compliance,Security,Qa,Agile,Scrum,Oss,Devops,Devsecops,Development,Containers,Culture,Ci/cd,Ruby,Python,Rails,Java,Javascript,Docker,Nodejs",
+    "location": "Capital One Convention Center",
+    "cfp": {
+      "deadline": "2018-07-29T05:07:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/dod-dfw-2018"
+    }
+  },
+  {
+    "url": "https://nerdear.la",
+    "name": "nerdear.la",
+    "endDate": "2018-08-31T22:00:00.000Z",
+    "startDate": "2018-08-29T22:00:00.000Z",
+    "keywords": "Virtualization,Containers,Sysadmin,Ops,Devops,Cloud,Linux,Nerds,Geeks,Diversity,Inclusion,Nodejs,Javascript,Oop,Sre,Python,Docker,Devs,Science,Pyshics,Maths,Mathematics",
+    "location": "Buenos Aires, Argentina",
+    "cfp": {
+      "deadline": "2018-07-15T10:07:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/nerdearla2018"
+    }
+  },
+  {
+    "url": "http://www.fundacionmujeresporcolombia.org",
+    "name": "Decimo Foro de Orientacion Profesional STEM 2018-2, FOP182",
+    "endDate": "2018-08-31T22:00:00.000Z",
+    "startDate": "2018-08-31T22:00:00.000Z",
+    "keywords": "",
+    "location": "Bogota, DC, Colombia",
+    "cfp": null
+  },
+  {
+    "url": "http://lambdale.org",
+    "name": "LambdAle",
+    "endDate": "2018-08-31T22:00:00.000Z",
+    "startDate": "2018-08-31T22:00:00.000Z",
+    "keywords": "",
+    "location": "London",
+    "cfp": null
+  },
+  {
+    "url": "http://blockchainconf.tech/",
+    "name": "BlockChainConf.Tech",
+    "endDate": "2018-09-05T22:00:00.000Z",
+    "startDate": "2018-09-05T22:00:00.000Z",
+    "keywords": "",
+    "location": "Atlanta GA, USA",
+    "cfp": {
+      "deadline": "2018-06-18T16:06:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/blockchain2018"
+    }
+  },
+  {
+    "url": "https://2018.appsecil.org",
+    "name": "OWASP AppSec Israel 2018",
+    "endDate": "2018-09-05T22:00:00.000Z",
+    "startDate": "2018-09-05T22:00:00.000Z",
+    "keywords": "Policy and legal,Devops,Defender,Breaker,Builder",
+    "location": "Tel Aviv University",
+    "cfp": {
+      "deadline": "2018-07-15T14:07:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/appsecisrael2018"
+    }
+  },
+  {
+    "url": "http://www.react-next.com",
+    "name": "ReactNext",
+    "endDate": "2018-09-05T22:00:00.000Z",
+    "startDate": "2018-09-05T22:00:00.000Z",
+    "keywords": "React,React.js,React native,Javascript,Frontend development,Web development,Web apps",
+    "location": "Tel Aviv, Israel",
+    "cfp": null
+  },
+  {
+    "url": "http://www.poug.org/",
+    "name": "Pint with Oracle User Group 2018",
+    "endDate": "2018-09-07T22:00:00.000Z",
+    "startDate": "2018-09-06T22:00:00.000Z",
+    "keywords": "Oracle,Apex,Sql,Plsql,Database",
+    "location": "Unknown",
+    "cfp": null
+  },
+  {
+    "url": "http://www.javaday.ec",
+    "name": "JavaDay Ecuador",
+    "endDate": "2018-09-07T22:00:00.000Z",
+    "startDate": "2018-09-07T22:00:00.000Z",
+    "keywords": "Java,Javascript,Spring,Jakartaee,Docker,Kubernetes",
+    "location": "Quito, Ecuador",
+    "cfp": {
+      "deadline": "2018-06-30T19:06:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/javaday-ecuador"
+    }
+  },
+  {
+    "url": "https://www.reactathon.com",
+    "name": "Reactathon",
+    "endDate": "2018-09-07T22:00:00.000Z",
+    "startDate": "2018-09-07T22:00:00.000Z",
+    "keywords": "React,Javascript,Reactjs,Redux,React native",
+    "location": "San Francisco, CA ",
+    "cfp": {
+      "deadline": "2018-06-20T12:06:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/reactathon-2018"
+    }
+  },
+  {
+    "url": "http://mocyber.io",
+    "name": "Cyber Workshop",
+    "endDate": "2018-09-13T22:00:00.000Z",
+    "startDate": "2018-09-09T22:00:00.000Z",
+    "keywords": "Build,Analysis,Ttps,Hands-on,Tools,General,Tactics,Community",
+    "location": "St Joseph, MO",
+    "cfp": {
+      "deadline": "2018-06-30T22:06:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/mocyberworkshop2018"
+    }
+  },
+  {
+    "url": "https://pl.meet-magento.com/en/",
+    "name": "Meet Magento Poland 2018",
+    "endDate": "2018-09-10T22:00:00.000Z",
+    "startDate": "2018-09-09T22:00:00.000Z",
+    "keywords": "Magento,Php,Javascript,E-commerce",
+    "location": "Krakow, Poland",
+    "cfp": {
+      "deadline": "2018-08-14T14:08:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/mm18pl"
+    }
+  },
+  {
+    "url": "http://saltconf.com/",
+    "name": "SaltConf18",
+    "endDate": "2018-09-12T22:00:00.000Z",
+    "startDate": "2018-09-09T22:00:00.000Z",
+    "keywords": "Python,Devops,Secops,Cloud,Iot",
+    "location": "Salt Lake City, UT",
+    "cfp": null
+  },
+  {
+    "url": "http://www.saltconf.com",
+    "name": "SaltConf18",
+    "endDate": "2018-09-12T22:00:00.000Z",
+    "startDate": "2018-09-09T22:00:00.000Z",
+    "keywords": "#saltconf18,#saltstackenterprise,#saltopen",
+    "location": "Salt Lake City",
+    "cfp": null
+  },
+  {
+    "url": "https://container-days.com",
+    "name": "Cloud Native, Docker &amp; K8s Summit",
+    "endDate": "2018-09-10T22:00:00.000Z",
+    "startDate": "2018-09-10T22:00:00.000Z",
+    "keywords": "Docker,Serverless,K8s,Kuberbetes,Cloud native,Devops,Microservices,Big data",
+    "location": "Dallas, TX (USA)",
+    "cfp": {
+      "deadline": "2018-08-15T17:08:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/docker-k8s-summit"
+    }
+  },
+  {
+    "url": "http://serverlessdays.amsterdam",
+    "name": "ServerlessDays Amsterdam",
+    "endDate": "2018-09-13T22:00:00.000Z",
+    "startDate": "2018-09-13T22:00:00.000Z",
+    "keywords": "Serverless,Cloud,Aws,Azure,Google cloud,Ibm cloud,Javascript,Go,Python,Java,Php,C#,F#",
+    "location": "Amsterdam, The Netherlands",
+    "cfp": {
+      "deadline": "2018-07-14T22:07:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/serverlessdays-ams"
+    }
+  },
+  {
+    "url": "http://codedaze.me",
+    "name": "CodeDaze Vol. 2",
+    "endDate": "2018-09-14T22:00:00.000Z",
+    "startDate": "2018-09-13T22:00:00.000Z",
+    "keywords": "",
+    "location": "Buffalo, NY",
+    "cfp": null
+  },
+  {
+    "url": "http://2018.scala-italy.it",
+    "name": "Scala Italy 2018",
+    "endDate": "2018-09-14T22:00:00.000Z",
+    "startDate": "2018-09-13T22:00:00.000Z",
+    "keywords": "Scala,Big data,Fp,Functional programming,Jvm,Web,Open source,Sbt,Tooling,Ide,Dotty,Akka,Reactive systems,Spark,Machine learning,Object oriented programming",
+    "location": "Florence, Italy",
+    "cfp": null
+  },
+  {
+    "url": "https://www.devopsdays.org/events/2018-porto-alegre/",
+    "name": "DevOpsDays Porto Alegre 2018",
+    "endDate": "2018-09-14T22:00:00.000Z",
+    "startDate": "2018-09-14T22:00:00.000Z",
+    "keywords": "Devops,Agile,Qa,Monitoring,Sre,Automation,Culture,Security,Devsecops",
+    "location": "UniRitter/FAPA - Porto Alegre",
+    "cfp": {
+      "deadline": "2018-07-02T03:07:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/devopsdayspoa2018"
+    }
+  },
+  {
+    "url": "https://www.devopsdays.org/events/2018-cairo",
+    "name": "devopsdays Cairo 2018",
+    "endDate": "2018-09-16T22:00:00.000Z",
+    "startDate": "2018-09-16T22:00:00.000Z",
+    "keywords": "Devops,Digital transformation,Infrastructure as code,Continuous integration,Continuous delivery,Culture,Infrastructure,Agile,Continuous testing,Automation",
+    "location": "Cairo, Egypt",
+    "cfp": {
+      "deadline": "2018-06-29T23:06:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/devopsdays-cairo"
+    }
+  },
+  {
+    "url": "https://www.papercall.io/pyconjp2018",
+    "name": "PyCon JP 2018",
+    "endDate": "2018-09-17T22:00:00.000Z",
+    "startDate": "2018-09-16T22:00:00.000Z",
+    "keywords": "Web programming including frameworks (django / flask / pylons etc.),Python in education science and maths,Machine learning and data science,Python libraries extending and embedding python in hardware,Gui and games,Best practices,Network programming,System administration,Project case studies,Community building and human interaction,Programming tools,Packaging,Fintech,Anything else basically which doesn’t really fall into the types of topics above",
+    "location": "Ota-ku Sangyo plaza PiO, Tokyo, Japan",
+    "cfp": {
+      "deadline": "2018-06-30T00:06:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/pyconjp2018"
+    }
+  },
+  {
+    "url": "https://www.devopsdays.org/events/2018-columbus",
+    "name": "DevOpsDays Columbus 2018",
+    "endDate": "2018-09-19T22:00:00.000Z",
+    "startDate": "2018-09-18T22:00:00.000Z",
+    "keywords": "",
+    "location": "Columbus, OH",
+    "cfp": {
+      "deadline": "2018-07-18T17:07:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/devopsdayscolumbus2018"
+    }
+  },
+  {
+    "url": "http://www.ipexponordic.com/",
+    "name": "IP EXPO Nordic 2018",
+    "endDate": "2018-09-19T22:00:00.000Z",
+    "startDate": "2018-09-18T22:00:00.000Z",
+    "keywords": "Devops,Big data,Containers,Open source,Iot,Serverless,Ai,Cloud",
+    "location": "Stockholmsmässan, Sweden",
+    "cfp": null
+  },
+  {
+    "url": "https://www.papercall.io/devops-days",
+    "name": "DevOps Midwest",
+    "endDate": "2018-09-19T22:00:00.000Z",
+    "startDate": "2018-09-18T22:00:00.000Z",
+    "keywords": "",
+    "location": "St. Louis, MO",
+    "cfp": null
+  },
+  {
+    "url": "https://www.papercall.io/devops-midwest",
+    "name": "DevOps Midwest",
+    "endDate": "2018-09-19T22:00:00.000Z",
+    "startDate": "2018-09-18T22:00:00.000Z",
+    "keywords": "",
+    "location": "St. Louis, MO",
+    "cfp": null
+  },
+  {
+    "url": "http://www.graphconnect.com",
+    "name": "GraphConnect 2018",
+    "endDate": "2018-09-19T22:00:00.000Z",
+    "startDate": "2018-09-19T22:00:00.000Z",
+    "keywords": "Business case study,Technical case study,Developer best practices",
+    "location": "New York City",
+    "cfp": {
+      "deadline": "2018-07-02T06:07:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/graphconnect2018"
+    }
+  },
+  {
+    "url": "https://frenchkit.fr",
+    "name": "FrenchKit 2018",
+    "endDate": "2018-09-20T22:00:00.000Z",
+    "startDate": "2018-09-19T22:00:00.000Z",
+    "keywords": "Ci,Cocoa,Tooling,Language,Prototyping,Architecture,Framework,Iot,Tvos,Watchos,Ux,Test,Backend,Mobile,Macos,Ios,Objective-c,Swift",
+    "location": "Paris, France",
+    "cfp": {
+      "deadline": "2018-06-24T22:06:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/frenchkit-2018"
+    }
+  },
+  {
+    "url": "https://rebaseconf.io/",
+    "name": "Re:BASE",
+    "endDate": "2018-09-20T22:00:00.000Z",
+    "startDate": "2018-09-19T22:00:00.000Z",
+    "keywords": "Web technology,Ruby,Javascript,Python,Security,Devops,Frontend,Backend,Database,Ui,Ux,Artificial intelligence,Machine learning,Iot,Blockchain,.net,Cryptography,Mainframe",
+    "location": "Birmingham, AL",
+    "cfp": {
+      "deadline": "2018-08-03T12:08:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/rebase"
+    }
+  },
+  {
+    "url": "https://www.devopsdays.org/events/2018-cape-town/welcome/",
+    "name": "DevOpsDays Cape Town 2018",
+    "endDate": "2018-09-20T22:00:00.000Z",
+    "startDate": "2018-09-19T22:00:00.000Z",
+    "keywords": "Technical,Culture,Devopsdays,Devops,Automation",
+    "location": "South Africa, Cape Town",
+    "cfp": {
+      "deadline": "2018-07-31T23:59:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/devopsdayscpt2018"
+    }
+  },
+  {
+    "url": "https://devopsdays.istanbul/",
+    "name": "DevOpsDays İstanbul 2018",
+    "endDate": "2018-09-19T22:00:00.000Z",
+    "startDate": "2018-09-19T22:00:00.000Z",
+    "keywords": "Devops,Culture,Technology,Security,Delivery",
+    "location": "Istanbul, Turkey",
+    "cfp": null
+  },
+  {
+    "url": "http://devsharp.pl/",
+    "name": "DevSharp 2018",
+    "endDate": "2018-09-20T22:00:00.000Z",
+    "startDate": "2018-09-20T22:00:00.000Z",
+    "keywords": "Front-end,Back-end,Full-stack,C#,Javascript,Java,Typescript,F#,Ux,Testing,Practices,Agile,Data science,Machine learning,Ruby,Elixir,React,Architecture,Mobile,.net",
+    "location": "Gdańsk, Poland",
+    "cfp": null
+  },
+  {
+    "url": "http://devfestatl.com/",
+    "name": "DevFest Atlanta 2018",
+    "endDate": "2018-09-21T22:00:00.000Z",
+    "startDate": "2018-09-21T22:00:00.000Z",
+    "keywords": "#android #web #cloud #community #career #design,#google,#i.o.t #augmented reality #virtual reality",
+    "location": "Atlanta, GA",
+    "cfp": {
+      "deadline": "2018-06-24T22:06:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/devfestatl"
+    }
+  },
+  {
+    "url": "https://2018.wwktm.co",
+    "name": "Web Weekend Kathmandu",
+    "endDate": "2018-09-22T22:00:00.000Z",
+    "startDate": "2018-09-21T22:00:00.000Z",
+    "keywords": "Web,Javascript,P2p,Internet governance,Success stories,Community and collaboration,React.js",
+    "location": "Kathmandu, Nepal",
+    "cfp": {
+      "deadline": "2018-07-31T12:07:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/wwktm"
+    }
+  },
+  {
+    "url": "https://state.osmlatam.org/",
+    "name": "SotM -State of the Map - Latam 2018",
+    "endDate": "2018-09-23T22:00:00.000Z",
+    "startDate": "2018-09-23T22:00:00.000Z",
+    "keywords": "",
+    "location": "Buenos Aires, Argentina",
+    "cfp": {
+      "deadline": "2018-08-13T23:08:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/sotm-latam-2018"
+    }
+  },
+  {
+    "url": "https://www.eventbrite.com/e/devopsdays-boston-2018-tickets-44312573099",
+    "name": "DevOpsDays Boston 2018",
+    "endDate": "2018-09-24T22:00:00.000Z",
+    "startDate": "2018-09-23T22:00:00.000Z",
+    "keywords": "",
+    "location": "Boston, MA",
+    "cfp": {
+      "deadline": "2018-06-22T23:59:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/devopsdays-boston-2018"
+    }
+  },
+  {
+    "url": "https://events.linuxfoundation.org/events/open-networking-summit-europe-2018/?utm_source=papercall&utm_medium=web-referral&utm_campaign=onseu18",
+    "name": "Open Networking Summit Europe 2018",
+    "endDate": "2018-09-26T22:00:00.000Z",
+    "startDate": "2018-09-24T22:00:00.000Z",
+    "keywords": "Ons2018",
+    "location": "Amsterdam, Netherlands",
+    "cfp": {
+      "deadline": "2018-06-24T08:06:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/linuxfoundation-events"
+    }
+  },
+  {
+    "url": "http://www.ekoparty.org",
+    "name": "ekoparty Security Conference",
+    "endDate": "2018-09-27T22:00:00.000Z",
+    "startDate": "2018-09-25T22:00:00.000Z",
+    "keywords": "",
+    "location": "Buenos Aires, Argentina",
+    "cfp": {
+      "deadline": "2018-08-15T15:08:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/ekoparty2018"
+    }
+  },
+  {
+    "url": "http://www.cybersecurity-chicago.com",
+    "name": "Cyber Security Chicago 2018 - Chicago, US",
+    "endDate": "2018-09-26T22:00:00.000Z",
+    "startDate": "2018-09-25T22:00:00.000Z",
+    "keywords": "Cyber security,Devsecops,Malware,Iot",
+    "location": "Chicago, US",
+    "cfp": null
+  },
+  {
+    "url": "http://devconf.pl/",
+    "name": "DevConf 2018",
+    "endDate": "2018-09-27T22:00:00.000Z",
+    "startDate": "2018-09-25T22:00:00.000Z",
+    "keywords": "Javascript,C#,Java,Ruby,Python,Functional programming,Software craftsmanship,Security,Iot,Devops,Architecture,Ux,Front-end,Back-end,Web development,Mobile,.net,Kotlin,War-stories,Inspiring talks",
+    "location": "Kraków, Poland",
+    "cfp": null
+  },
+  {
+    "url": "https://www.devopsdays.org/events/2018-riga/welcome/",
+    "name": "DevOpsDays Riga 2018",
+    "endDate": "2018-09-27T22:00:00.000Z",
+    "startDate": "2018-09-26T22:00:00.000Z",
+    "keywords": "Continuous delivery,Cloud,Agile,Devops,Success-stories,Failures,Monitoring,Lean,Culture,Docker,Chef,Puppet,Ansible,Devsecops,Continuous integration,Ci/cd,Flow,Aws,Azure,Google,Cloudformation,Heroku,Openstack,Openshift,Jenkins,Iac,Infrastructure as code,Continuous deployment,Atlassian,Microservices,Paas,Saas,Iaas,Splunk,Sdx,Containers,Hadoop,Tfs,Octopus,Configuration management,Sonar,Nexus,Bdd,Tdd,Hdd,Cloud native,Amazon,Git,Linux,Selenium,Terraform,Elk,Kibana,Sensu",
+    "location": "Riga, Latvia",
+    "cfp": null
+  },
+  {
+    "url": "https://2018.gopherconbr.org/en",
+    "name": "GopherCon Brasil 2018",
+    "endDate": "2018-09-28T22:00:00.000Z",
+    "startDate": "2018-09-26T22:00:00.000Z",
+    "keywords": "Golang,Go,Brazil",
+    "location": "Florianópolis, SC - Brazil",
+    "cfp": {
+      "deadline": "2018-06-29T03:06:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/gopherconbrazil2018"
+    }
+  },
+  {
+    "url": "https://2018.gopherconbr.org",
+    "name": "GopherCon Brasil 2018",
+    "endDate": "2018-09-28T22:00:00.000Z",
+    "startDate": "2018-09-26T22:00:00.000Z",
+    "keywords": "Golang,Go,Brasil",
+    "location": "Florianópolis, SC - Brasil",
+    "cfp": {
+      "deadline": "2018-06-29T03:06:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/gopherconbrasil2018"
+    }
+  },
+  {
+    "url": "http://chaosconf.io",
+    "name": "Chaos Conf",
+    "endDate": "2018-09-27T22:00:00.000Z",
+    "startDate": "2018-09-27T22:00:00.000Z",
+    "keywords": "",
+    "location": "San Francisco",
+    "cfp": null
+  },
+  {
+    "url": "http://apicity.io",
+    "name": "API City Conference 2018",
+    "endDate": "2018-10-03T22:00:00.000Z",
+    "startDate": "2018-10-01T22:00:00.000Z",
+    "keywords": "Devops,Open data,Smart cities,Polyglot,Api documentation,Api security,Artificial intelligence,Internet of things,Machine learning,Api best practices,Leadership/management,Api use cases,Api design,Microservices,Apis and sdks,Rest",
+    "location": "Bremerton, WA",
+    "cfp": null
+  },
+  {
+    "url": "http://www.ipexpoeurope.com/",
+    "name": "IP EXPO Europe 2018",
+    "endDate": "2018-10-03T22:00:00.000Z",
+    "startDate": "2018-10-02T22:00:00.000Z",
+    "keywords": "Devops,Big data,Containers,Open source,Iot,Serverless,Cyber security,Ai,Cloud",
+    "location": "London, UK",
+    "cfp": {
+      "deadline": "2018-06-30T11:06:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/ipe18"
+    }
+  },
+  {
+    "url": "http://www.lrtechfest.com",
+    "name": "Little Rock Tech Fest 2018",
+    "endDate": "2018-10-04T22:00:00.000Z",
+    "startDate": "2018-10-03T22:00:00.000Z",
+    "keywords": ".net,Php,Java,Agile,Devops,Database,Javascript,Avascript,Python,Php,Ruby,Go,Swift,C++,C#,Frameworks,Deployment,Performance,Scaling,Apis,Authentication,Security,Open source,Mentoring,Work-life balance,Management",
+    "location": "Little Rock, AR",
+    "cfp": {
+      "deadline": "2018-09-01T21:09:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/lrtf2018"
+    }
+  },
+  {
+    "url": "https://2018.pygotham.org",
+    "name": "PyGotham 2018",
+    "endDate": "2018-10-05T22:00:00.000Z",
+    "startDate": "2018-10-04T22:00:00.000Z",
+    "keywords": "",
+    "location": "NYC",
+    "cfp": null
+  },
+  {
+    "url": "https://2018.es.pycon.org",
+    "name": "PyConES 2018",
+    "endDate": "2018-10-06T22:00:00.000Z",
+    "startDate": "2018-10-04T22:00:00.000Z",
+    "keywords": "Python",
+    "location": "Málaga, España",
+    "cfp": null
+  },
+  {
+    "url": "http://grq.magetitans.com",
+    "name": "MageTitans Groningen 2018",
+    "endDate": "2018-10-05T22:00:00.000Z",
+    "startDate": "2018-10-05T22:00:00.000Z",
+    "keywords": "Magento,Php,Pwa,Developer,Community",
+    "location": "Groningen, Netherlands",
+    "cfp": {
+      "deadline": "2018-07-28T19:07:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/magetitans-groningen-2018"
+    }
+  },
+  {
+    "url": "https://linuxconf.co.za",
+    "name": "LinuxConf [ZA] 2018",
+    "endDate": "2018-10-07T22:00:00.000Z",
+    "startDate": "2018-10-07T22:00:00.000Z",
+    "keywords": "",
+    "location": "Johannesburg, South Africa",
+    "cfp": {
+      "deadline": "2018-06-30T22:06:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/linuxconfza"
+    }
+  },
+  {
+    "url": "https://libertyjs.com",
+    "name": "LibertyJS 2018",
+    "endDate": "2018-10-08T22:00:00.000Z",
+    "startDate": "2018-10-07T22:00:00.000Z",
+    "keywords": "",
+    "location": "Philadelphia, PA",
+    "cfp": {
+      "deadline": "2018-07-18T20:07:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/libertyjs-2018"
+    }
+  },
+  {
+    "url": "https://vienna.serverlessdays.io",
+    "name": "ServerlessDays Vienna",
+    "endDate": "2018-10-09T22:00:00.000Z",
+    "startDate": "2018-10-08T22:00:00.000Z",
+    "keywords": "Openspace,Aws,Azure,Google,Ibm,Node,Java,C#,Python,Ai,Ml,Bigdata,Database,Bestpractice,Security,Framework,Opensource",
+    "location": "Vienna, Austria",
+    "cfp": {
+      "deadline": "2018-08-26T10:08:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/serverlessdays-vie"
+    }
+  },
+  {
+    "url": "https://www.devopsdays.org/events/2018-montreal/welcome/",
+    "name": "DevOps Days Montréal 2018",
+    "endDate": "2018-10-10T22:00:00.000Z",
+    "startDate": "2018-10-09T22:00:00.000Z",
+    "keywords": "Automation,Cloud,Coding,Culture,Devops,Methodology,Failure,Infra_as_code,Success_story,Business_value,Tech_talk,Demo,Security,Open source",
+    "location": "Montréal, QC",
+    "cfp": {
+      "deadline": "2018-06-23T12:06:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/devopsdays-mtl-2018"
+    }
+  },
+  {
+    "url": "http://polarconf.fi/",
+    "name": "PolarConf 2018",
+    "endDate": "2018-10-10T22:00:00.000Z",
+    "startDate": "2018-10-09T22:00:00.000Z",
+    "keywords": "Powershell,Operations management suite,Security,Cloud governance,Cloud management,Docker,Microsoft azure,Cloud computing",
+    "location": "Helsinki, Finland",
+    "cfp": null
+  },
+  {
+    "url": "http://stockholm.openstacknordic.org/",
+    "name": "OpenStack Days Nordic 2018 - Stockholm",
+    "endDate": "2018-10-09T22:00:00.000Z",
+    "startDate": "2018-10-09T22:00:00.000Z",
+    "keywords": "",
+    "location": "Münchenbryggeriet",
+    "cfp": {
+      "deadline": "2018-06-17T21:50:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/osdn2018-stockholm"
+    }
+  },
+  {
+    "url": "http://gopherpalooza.com/",
+    "name": "GopherPalooza",
+    "endDate": "2018-10-11T22:00:00.000Z",
+    "startDate": "2018-10-10T22:00:00.000Z",
+    "keywords": "Golang",
+    "location": "San Francisco, CA",
+    "cfp": {
+      "deadline": "2018-07-14T01:07:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/gowest2018"
+    }
+  },
+  {
+    "url": "http://conference.blacksintechnology.net",
+    "name": "The Inaugural BIT Conference: BITCON2018",
+    "endDate": "2018-10-12T22:00:00.000Z",
+    "startDate": "2018-10-10T22:00:00.000Z",
+    "keywords": "Tech &amp; entrepreneurship,Your career in tech,Tech in your community,Engineering &amp; innovation,Machine learning/ai/big data,Media arts &amp; technology",
+    "location": "Minneapolis-St.Paul MN",
+    "cfp": {
+      "deadline": "2018-07-01T00:07:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/bitcon2018"
+    }
+  },
+  {
+    "url": "http://tigerhacks.missouri.edu",
+    "name": "TigerHacks",
+    "endDate": "2018-10-13T22:00:00.000Z",
+    "startDate": "2018-10-11T22:00:00.000Z",
+    "keywords": "Cloud,Azure,Firebase,Object oriented programming,Java,Swift,Andriod,Web,Mobile,Python,Machine learning,Team dev",
+    "location": "Columbia, Missouri",
+    "cfp": {
+      "deadline": "2018-08-31T20:08:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/tiger-hacks"
+    }
+  },
+  {
+    "url": "https://www.TexasCyberSummit.com",
+    "name": "Texas Cyber Summit",
+    "endDate": "2018-10-11T22:00:00.000Z",
+    "startDate": "2018-10-11T22:00:00.000Z",
+    "keywords": "",
+    "location": "San Antonio, Texas",
+    "cfp": {
+      "deadline": "2018-07-29T21:07:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/tcsc4p"
+    }
+  },
+  {
+    "url": "https://www.texascybersummit.org",
+    "name": "TexasCyberSummit",
+    "endDate": "2018-10-13T22:00:00.000Z",
+    "startDate": "2018-10-11T22:00:00.000Z",
+    "keywords": "",
+    "location": "San Antonio, Texas",
+    "cfp": {
+      "deadline": "2018-06-25T19:06:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/tcs2018"
+    }
+  },
+  {
+    "url": "https://2018.hackference.co.uk",
+    "name": "Hackference 2018",
+    "endDate": "2018-10-11T22:00:00.000Z",
+    "startDate": "2018-10-11T22:00:00.000Z",
+    "keywords": "",
+    "location": "Birmingham, UK",
+    "cfp": null
+  },
+  {
+    "url": "http://www.devfestweekend.com/",
+    "name": "Dev Fest Weekend",
+    "endDate": "2018-10-12T22:00:00.000Z",
+    "startDate": "2018-10-12T22:00:00.000Z",
+    "keywords": "Iot,3d printing,Asp.net,Xamarin,Cloud,C#,F#,Javascript,Typescript,Azure",
+    "location": "7000 State Highway 161, Irving, TX 75039",
+    "cfp": {
+      "deadline": "2018-07-14T22:07:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/devfestweekend"
+    }
+  },
+  {
+    "url": "http://ruhrjs.de",
+    "name": "RuhrJS 2018",
+    "endDate": "2018-10-13T22:00:00.000Z",
+    "startDate": "2018-10-12T22:00:00.000Z",
+    "keywords": "Javascript,Angular,Angularjs,React,Reactjs,Pwa,Serviceworker,Webworker,Vue,Vuejs,Nuxt,Frontend,Node",
+    "location": "Rotunde Bochum, Konrad-Adenauer-Platz 3, 44787 Bochum",
+    "cfp": null
+  },
+  {
+    "url": "https://www.creamcitycode.com",
+    "name": "Cream City Code 2018",
+    "endDate": "2018-10-12T22:00:00.000Z",
+    "startDate": "2018-10-12T22:00:00.000Z",
+    "keywords": "",
+    "location": "Milwaukee, WI",
+    "cfp": null
+  },
+  {
+    "url": "http://www.telecom-valley.fr/journee-m-tourisme-2018/",
+    "name": "International m-Tourism Day 2018",
+    "endDate": "2018-10-15T22:00:00.000Z",
+    "startDate": "2018-10-15T22:00:00.000Z",
+    "keywords": "",
+    "location": "French Riviera, France",
+    "cfp": {
+      "deadline": "2018-07-31T15:07:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/ai-tourism"
+    }
+  },
+  {
+    "url": "http://papis.io",
+    "name": "PAPIs Test",
+    "endDate": "2018-10-16T22:00:00.000Z",
+    "startDate": "2018-10-15T22:00:00.000Z",
+    "keywords": "Non technical,Somewhat technical,Very technical,Beginner-friendly,Experienced practitioners,New ml techniques,Ml from the trenches,Production/deployment",
+    "location": "Online",
+    "cfp": {
+      "deadline": "2018-07-01T23:07:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/papis-test"
+    }
+  },
+  {
+    "url": "https://mycreditexpo.eventbrite.com",
+    "name": "My Credit Expo",
+    "endDate": "2018-10-15T22:00:00.000Z",
+    "startDate": "2018-10-15T22:00:00.000Z",
+    "keywords": "",
+    "location": "Florida",
+    "cfp": null
+  },
+  {
+    "url": "http://www.prairiedevcon.com",
+    "name": "Prairie Dev Con Regina 2018",
+    "endDate": "2018-10-16T22:00:00.000Z",
+    "startDate": "2018-10-15T22:00:00.000Z",
+    "keywords": "",
+    "location": "Regina, Saskatchewan, Canada",
+    "cfp": {
+      "deadline": "2018-06-25T05:06:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/prdcregina2018"
+    }
+  },
+  {
+    "url": "https://www.alldaydevops.com/",
+    "name": "All Day DevOps 2018: Live Online",
+    "endDate": "2018-10-16T22:00:00.000Z",
+    "startDate": "2018-10-16T22:00:00.000Z",
+    "keywords": "Devops,Devsecops,Security,Ci/cd,Site reliability engineering,Sre,Kubernetes,Cloud computing,Cultural transformation",
+    "location": "Live Online",
+    "cfp": {
+      "deadline": "2018-06-17T23:06:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/alldaydevops-2018"
+    }
+  },
+  {
+    "url": "https://tour.agiletoulouse.fr/",
+    "name": "DRAFT Agile Tour Toulouse 2018",
+    "endDate": "2018-10-16T22:00:00.000Z",
+    "startDate": "2018-10-16T22:00:00.000Z",
+    "keywords": "",
+    "location": "Toulouse, France",
+    "cfp": null
+  },
+  {
+    "url": "https://www.cybersecurity-atlanta.com/",
+    "name": "Cyber Security Atlanta 2018",
+    "endDate": "2018-10-17T22:00:00.000Z",
+    "startDate": "2018-10-16T22:00:00.000Z",
+    "keywords": "Cyber security,Malware,Devsecops,Iot,Security,Cloud,Mobile",
+    "location": "Atlanta, US",
+    "cfp": null
+  },
+  {
+    "url": "http://www.seleniumconf.us",
+    "name": "SeleniumConf Chicago ",
+    "endDate": "2018-10-18T22:00:00.000Z",
+    "startDate": "2018-10-17T22:00:00.000Z",
+    "keywords": "",
+    "location": "Chicago, IL, USA",
+    "cfp": null
+  },
+  {
+    "url": "https://mirrorconf.com",
+    "name": "MirrorConf 2018",
+    "endDate": "2018-10-18T22:00:00.000Z",
+    "startDate": "2018-10-17T22:00:00.000Z",
+    "keywords": "Ux,Product design,Design,Front-end,Svg,Css,User experience,User interface,Web design,Interaction design,Product strategy,Product owner,Product manager",
+    "location": "Braga, Portugal",
+    "cfp": {
+      "deadline": "2018-07-16T16:07:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/mirrorconf2018"
+    }
+  },
+  {
+    "url": "https://milan.serverlessdays.io",
+    "name": "ServerlessDays Milan",
+    "endDate": "2018-10-18T22:00:00.000Z",
+    "startDate": "2018-10-18T22:00:00.000Z",
+    "keywords": "Faas,Amazon web services,Google cloud platform,Microsoft azure,Ibm bluemix,Security,Monitoring,Multi-cloud",
+    "location": "Milan, Italy",
+    "cfp": {
+      "deadline": "2018-08-01T23:08:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/serverless-days-milano"
+    }
+  },
+  {
+    "url": "http://reactconfbr.com.br",
+    "name": "React Conf Brasil 2018",
+    "endDate": "2018-10-19T22:00:00.000Z",
+    "startDate": "2018-10-19T22:00:00.000Z",
+    "keywords": "",
+    "location": "Sao Paulo, Brasil",
+    "cfp": {
+      "deadline": "2018-08-31T00:08:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/reactconfbr2018"
+    }
+  },
+  {
+    "url": "https://codecamp.vegas/",
+    "name": "Code Camp Vegas",
+    "endDate": "2018-10-19T22:00:00.000Z",
+    "startDate": "2018-10-19T22:00:00.000Z",
+    "keywords": "",
+    "location": "Las Vegas, NV",
+    "cfp": null
+  },
+  {
+    "url": "http://events.linuxfoundation.org/events/open-source-summit-europe?utm_source=papercall&utm_medium=web-referral&utm_campaign=osseu18",
+    "name": "Open Source Summit Europe",
+    "endDate": "2018-10-23T22:00:00.000Z",
+    "startDate": "2018-10-21T22:00:00.000Z",
+    "keywords": "Opensource,Ossummit",
+    "location": "Edinburgh, UK",
+    "cfp": {
+      "deadline": "2018-07-01T08:07:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/ossummiteu"
+    }
+  },
+  {
+    "url": "https://golab.io",
+    "name": "GoLab - the Italian conference on Go - Florence, Italy",
+    "endDate": "2018-10-22T22:00:00.000Z",
+    "startDate": "2018-10-21T22:00:00.000Z",
+    "keywords": "Golang,Go,Web,Developer experience,Patterns,Embedded",
+    "location": "Florence, Italy",
+    "cfp": null
+  },
+  {
+    "url": "http://www.worldmiceday.com/",
+    "name": "World MICE Day",
+    "endDate": "2018-10-26T22:00:00.000Z",
+    "startDate": "2018-10-24T22:00:00.000Z",
+    "keywords": "",
+    "location": "Qingdao",
+    "cfp": null
+  },
+  {
+    "url": "https://graphics-animation.euroscicon.com/",
+    "name": "6th International Conference on Graphics, Animation &amp; VFX Technology",
+    "endDate": "2018-10-24T22:00:00.000Z",
+    "startDate": "2018-10-24T22:00:00.000Z",
+    "keywords": "",
+    "location": "Berlin,Germany",
+    "cfp": null
+  },
+  {
+    "url": "http://www.shikkaricon.weebly.com",
+    "name": "Shikkaricon",
+    "endDate": "2018-10-27T22:00:00.000Z",
+    "startDate": "2018-10-26T22:00:00.000Z",
+    "keywords": "Anime,Manga,Video games,Gaming,Cosplay,Costuming,Fandom,Geekery,Geekdom",
+    "location": "Philadelphia, PA",
+    "cfp": {
+      "deadline": "2018-07-01T10:07:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/shikkaricon"
+    }
+  },
+  {
+    "url": "http://www.shikkaricon.weebly.com",
+    "name": "Shikkaricon",
+    "endDate": "2018-10-27T22:00:00.000Z",
+    "startDate": "2018-10-26T22:00:00.000Z",
+    "keywords": "",
+    "location": "Philadelphia, PA",
+    "cfp": null
+  },
+  {
+    "url": "http://openwrtsummit.org",
+    "name": "OpenWrt Summit 2018",
+    "endDate": "2018-10-29T23:00:00.000Z",
+    "startDate": "2018-10-28T23:00:00.000Z",
+    "keywords": "Openwrt",
+    "location": "Lisbon, Portugal",
+    "cfp": {
+      "deadline": "2018-07-11T00:07:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/openwrtsummit2018"
+    }
+  },
+  {
+    "url": "http://www.prdcdeliver.com",
+    "name": "Deliver 2018 - Exploring Better Ways to Deliver Software",
+    "endDate": "2018-10-29T23:00:00.000Z",
+    "startDate": "2018-10-28T23:00:00.000Z",
+    "keywords": "Release management,Lean,Agile,Quality,User experience,Solution design,Business analysis,Culture,Project management,Team management,Architecture,Software development,Other",
+    "location": "Winnipeg, Manitoba, Canada",
+    "cfp": null
+  },
+  {
+    "url": "http://crunchconf.com/",
+    "name": "Crunch 2018",
+    "endDate": "2018-10-30T23:00:00.000Z",
+    "startDate": "2018-10-28T23:00:00.000Z",
+    "keywords": "Streaming,Data ingestion,Data science,Data engineering,Big data",
+    "location": "Budapest, Hungary",
+    "cfp": {
+      "deadline": "2018-07-01T09:07:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/crunch2018"
+    }
+  },
+  {
+    "url": "http://www.impact-conf.com",
+    "name": "IMPACT Product management conference",
+    "endDate": "2018-10-30T23:00:00.000Z",
+    "startDate": "2018-10-29T23:00:00.000Z",
+    "keywords": "Product,Product management,Agile,Product owner,Engineering management,Program management,Product marketing",
+    "location": "Budapest, Hungary",
+    "cfp": {
+      "deadline": "2018-06-30T09:06:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/impactconf"
+    }
+  },
+  {
+    "url": "http://www.agiletourbrussels.be/",
+    "name": "Agile Tour Brussels 2018",
+    "endDate": "2018-10-30T23:00:00.000Z",
+    "startDate": "2018-10-30T23:00:00.000Z",
+    "keywords": "Agile,Scrum,Lean,Kanban,Extreme programming,Xp,Brussels,Belgium",
+    "location": "Brussels (EPHEC)",
+    "cfp": {
+      "deadline": "2018-07-01T19:07:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/atbru2018"
+    }
+  },
+  {
+    "url": "http://www.cybersecurity-dallas.com/",
+    "name": "Cyber Security Dallas 2018",
+    "endDate": "2018-10-31T23:00:00.000Z",
+    "startDate": "2018-10-30T23:00:00.000Z",
+    "keywords": "Devsecops,Malware,Cyber security,Iot,Cloud,Security,Mobile",
+    "location": "Dallas, US",
+    "cfp": null
+  },
+  {
+    "url": "http://www.rvajavascript.com/",
+    "name": "RVA JavaScript Conf 2018",
+    "endDate": "2018-11-01T23:00:00.000Z",
+    "startDate": "2018-11-01T23:00:00.000Z",
+    "keywords": "",
+    "location": "Richmond, VA",
+    "cfp": {
+      "deadline": "2018-08-01T10:08:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/rvajavascript2018"
+    }
+  },
+  {
+    "url": "https://www.devopsdays.org/events/2018-wellington/welcome/",
+    "name": "DevOpsDays Wellington 2018",
+    "endDate": "2018-11-05T23:00:00.000Z",
+    "startDate": "2018-11-04T23:00:00.000Z",
+    "keywords": "",
+    "location": "Wellington",
+    "cfp": {
+      "deadline": "2018-08-03T00:08:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/devopsdays-wellington-2018"
+    }
+  },
+  {
+    "url": "https://www.meetup.com/GDG-Trondheim/",
+    "name": "DevFest Trondheim 2018",
+    "endDate": "2018-11-05T23:00:00.000Z",
+    "startDate": "2018-11-05T23:00:00.000Z",
+    "keywords": "Devfest,Android,Gdg,Google,Iot,Cloud,Norway,Trondheim,Web",
+    "location": "Trondheim",
+    "cfp": {
+      "deadline": "2018-06-25T16:06:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/devfest-trd"
+    }
+  },
+  {
+    "url": "http://summit.graphql.com",
+    "name": "GraphQL Summit 2018",
+    "endDate": "2018-11-06T23:00:00.000Z",
+    "startDate": "2018-11-06T23:00:00.000Z",
+    "keywords": "",
+    "location": "San Francisco",
+    "cfp": {
+      "deadline": "2018-07-15T23:07:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/graphql-summit"
+    }
+  },
+  {
+    "url": "http://connected-data.london/",
+    "name": "Connected Data London",
+    "endDate": "2018-11-06T23:00:00.000Z",
+    "startDate": "2018-11-06T23:00:00.000Z",
+    "keywords": "Ai,Linked data,Knowledge graph,Semantic web,Property graph,Semantic technology,Ontology &amp; data model development,Recommendation engines,Master data management,Integration approaches &amp; apis,Graph query languages,Metadata &amp; data quality management,Annotation &amp; extraction,Network analysis &amp; visualisation,Natural language processing,Semantic &amp; graph search",
+    "location": "London",
+    "cfp": {
+      "deadline": "2018-10-31T10:10:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/connected-data"
+    }
+  },
+  {
+    "url": "http://www.honeycon.eu",
+    "name": "HoneyCon 2018",
+    "endDate": "2018-11-09T23:00:00.000Z",
+    "startDate": "2018-11-07T23:00:00.000Z",
+    "keywords": "Seguridad,Security,Desarrollo seguro,Exploiting,Bug,Seguridad industrial,Privacidad,Hacking,0-day,Seguridad web,Vulnerability,Criptografia,Iot,Smart cities",
+    "location": "Guadalajara, España",
+    "cfp": {
+      "deadline": "2018-08-31T20:08:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/honeycon2018"
+    }
+  },
+  {
+    "url": "http://bit.ly/sgza2018",
+    "name": "Regional Scrum Gathering® Durban 2018",
+    "endDate": "2018-11-08T23:00:00.000Z",
+    "startDate": "2018-11-07T23:00:00.000Z",
+    "keywords": "Shu,Ha,Ri,Scrum,Agile,Kanban,Software development,Scrum master,Product owner,Development team",
+    "location": "Durban, South Africa",
+    "cfp": {
+      "deadline": "2018-06-30T22:06:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/sgza"
+    }
+  },
+  {
+    "url": "https://www.mongodb.com/europe18",
+    "name": "MongoDB Europe 2018",
+    "endDate": "2018-11-07T23:00:00.000Z",
+    "startDate": "2018-11-07T23:00:00.000Z",
+    "keywords": "",
+    "location": "London, UK",
+    "cfp": {
+      "deadline": "2018-07-06T10:07:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/mongodb-europe-2018"
+    }
+  },
+  {
+    "url": "https://www.owasp.org/index.php/OWASP_AppSec_Indonesia_2018",
+    "name": "OWASP AppSec Indonesia 2018",
+    "endDate": "2018-11-08T23:00:00.000Z",
+    "startDate": "2018-11-07T23:00:00.000Z",
+    "keywords": "Application security,Owasp,Appsec asia 2018",
+    "location": "Indonesia",
+    "cfp": {
+      "deadline": "2018-08-30T10:08:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/appsecid2018"
+    }
+  },
+  {
+    "url": "https://thebigelixir.com",
+    "name": "The Big Elixir 2018",
+    "endDate": "2018-11-08T23:00:00.000Z",
+    "startDate": "2018-11-07T23:00:00.000Z",
+    "keywords": "Elixir,Phoenix,Nerves,Production",
+    "location": "New Orleans, LA",
+    "cfp": {
+      "deadline": "2018-07-02T09:00:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/the-big-elixir-2018"
+    }
+  },
+  {
+    "url": "https://london-2018.devrelcon.net",
+    "name": "DevRelCon London 2018",
+    "endDate": "2018-11-07T23:00:00.000Z",
+    "startDate": "2018-11-07T23:00:00.000Z",
+    "keywords": "",
+    "location": "London",
+    "cfp": {
+      "deadline": "2018-07-31T11:07:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/devrelcon-london-2018"
+    }
+  },
+  {
+    "url": "https://rabbitmqsummit.com/",
+    "name": "RabbitMQ Summit",
+    "endDate": "2018-11-11T23:00:00.000Z",
+    "startDate": "2018-11-11T23:00:00.000Z",
+    "keywords": "",
+    "location": "CodeNode London, UK",
+    "cfp": null
+  },
+  {
+    "url": "https://www.itnextsummit.com",
+    "name": "ITNEXT Summit 2018 - Amsterdam, Netherlands",
+    "endDate": "2018-11-13T23:00:00.000Z",
+    "startDate": "2018-11-13T23:00:00.000Z",
+    "keywords": "Javascript,Aws,Cloud,Outsystems,Kubernetes,Devops,Cloud computing,Machine learning,Hadoop,Low code development,Networking,Cybersecurity,Big data,Frontend,Backend",
+    "location": "Amsterdam, Netherlands",
+    "cfp": null
+  },
+  {
+    "url": "https://world.phparch.com/",
+    "name": "php[world] 2018",
+    "endDate": "2018-11-14T23:00:00.000Z",
+    "startDate": "2018-11-13T23:00:00.000Z",
+    "keywords": "Php,Drupal,Wordpress,Magento,Symfony,Laravel,Devops,Development tools,Cloud,Apis,Oop,Databases,Javascript,Html5/css,Mobile,Debugging,Performance,Ui/ux,Technical debt,Legacy software,Libraries,Open source,Best practices,Version control,Testing,Security,Migration,Deployment,Php 7,Community,Zend framework,Professional development,Work-life balance",
+    "location": "Washington, D.C. ",
+    "cfp": {
+      "deadline": "2018-07-22T07:07:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/phpworld2018"
+    }
+  },
+  {
+    "url": "https://www.devopsdays.org/events/2018-panama/welcome/",
+    "name": "DevOpsDays Panamá 2018",
+    "endDate": "2018-11-16T23:00:00.000Z",
+    "startDate": "2018-11-14T23:00:00.000Z",
+    "keywords": "Configuration management,Security,Recruitment,Scaling,Devops,Infrastructure as code,Lean,Monitoring,Microservices,Continuous delivery,Continuous integration,Continuous deployment,Automation,Service management,Containers,Orchestation,Paas,Saas",
+    "location": "Ciudad del Saber, República de Panamá",
+    "cfp": {
+      "deadline": "2018-08-16T18:08:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/devopsdays-panama-2018"
+    }
+  },
+  {
+    "url": "https://devfest.gdg.lv/",
+    "name": "DevFest Baltics 2018: Mobile Edition",
+    "endDate": "2018-11-15T23:00:00.000Z",
+    "startDate": "2018-11-15T23:00:00.000Z",
+    "keywords": "Bots,Ar,Vr,Ai,Ios,Iot,Android,Mobile,Ui/ux,Crossplatform",
+    "location": "Riga, Latvia",
+    "cfp": {
+      "deadline": "2018-06-29T19:06:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/devfest-baltics-18"
+    }
+  },
+  {
+    "url": "http://www.frontmania.com",
+    "name": "FrontMania 2018 - Frontend Conference",
+    "endDate": "2018-11-15T23:00:00.000Z",
+    "startDate": "2018-11-15T23:00:00.000Z",
+    "keywords": "Javascript,Frontend,Node,Angular,Ember,React",
+    "location": "Utrecht, NL",
+    "cfp": {
+      "deadline": "2018-08-31T00:08:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/frontmania"
+    }
+  },
+  {
+    "url": "http://halfstackconf.com/",
+    "name": "London HalfStack 2018",
+    "endDate": "2018-11-15T23:00:00.000Z",
+    "startDate": "2018-11-15T23:00:00.000Z",
+    "keywords": "Halfstackconf,Javascript,Html5,Svg,Typescript",
+    "location": "London, United Kingdom",
+    "cfp": {
+      "deadline": "2018-07-17T12:00:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/halfstackconf2018"
+    }
+  },
+  {
+    "url": "https://goodtechconf.org/",
+    "name": "Good Tech Conf",
+    "endDate": "2018-11-19T23:00:00.000Z",
+    "startDate": "2018-11-18T23:00:00.000Z",
+    "keywords": "",
+    "location": "Brighton, UK",
+    "cfp": {
+      "deadline": "2018-09-07T18:00:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/good-tech-conf-2018"
+    }
+  },
+  {
+    "url": "https://romania.voxxeddays.com/cluj-napoca/2018-11-22/",
+    "name": "Voxxed Days Cluj-Napoca 2018",
+    "endDate": "2018-11-21T23:00:00.000Z",
+    "startDate": "2018-11-21T23:00:00.000Z",
+    "keywords": "Nosql,Continuous delivery,Security,Java,Jvm,Web,Big data,Mobile,Distributed applications,Microservices",
+    "location": "Cluj-Napoca, Romania",
+    "cfp": {
+      "deadline": "2018-08-01T11:08:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/vdcluj2018"
+    }
+  },
+  {
+    "url": "https://gdg-siberia.com",
+    "name": "DevFest Siberia 2018",
+    "endDate": "2018-11-24T23:00:00.000Z",
+    "startDate": "2018-11-22T23:00:00.000Z",
+    "keywords": "Backend,Frontend,Mobile,Beyond,Machine learning,Blockchain",
+    "location": "Novosibirsk, Russia",
+    "cfp": {
+      "deadline": "2018-07-31T21:00:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/dfsiberia18"
+    }
+  },
+  {
+    "url": "http://lets-test.com/",
+    "name": "Let's Test South Africa",
+    "endDate": "2018-11-26T23:00:00.000Z",
+    "startDate": "2018-11-24T23:00:00.000Z",
+    "keywords": "",
+    "location": "Valley Lodge, Magaliesburg, South Africa",
+    "cfp": null
+  },
+  {
+    "url": "http://flowcon.fr/",
+    "name": "Flowcon 2018",
+    "endDate": "2018-11-27T23:00:00.000Z",
+    "startDate": "2018-11-26T23:00:00.000Z",
+    "keywords": "",
+    "location": "Paris",
+    "cfp": {
+      "deadline": "2018-11-01T17:11:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/flowcon"
+    }
+  },
+  {
+    "url": "http://fsto.co",
+    "name": "Full Stack Toronto 2018",
+    "endDate": "2018-11-29T23:00:00.000Z",
+    "startDate": "2018-11-28T23:00:00.000Z",
+    "keywords": "Front-end,Back-end,Leadership,Management,Architecture,Java,Javascript,Computer science",
+    "location": "Toronto, ON, Canada",
+    "cfp": {
+      "deadline": "2018-08-31T17:08:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/fstoco18"
+    }
+  },
+  {
+    "url": "http://connect.tasktop.com",
+    "name": "Tasktop Connect 2018",
+    "endDate": "2018-12-05T23:00:00.000Z",
+    "startDate": "2018-12-05T23:00:00.000Z",
+    "keywords": "",
+    "location": "Washington DC",
+    "cfp": null
+  },
+  {
+    "url": "https://2018.bris.tech",
+    "name": "Bristech Conference 2018",
+    "endDate": "2018-12-05T23:00:00.000Z",
+    "startDate": "2018-12-05T23:00:00.000Z",
+    "keywords": "Cloud,Security,Devops,Languages,Web,Techniques,Platforms,Tooling,Frameworks",
+    "location": "Bristol, UK",
+    "cfp": {
+      "deadline": "2018-08-31T22:08:00.000Z",
+      "expenseSupport": true,
+      "url": "https://www.papercall.io/bristech-conference-2018"
+    }
+  },
+  {
+    "url": "http://devopsdaysindia.org",
+    "name": "DevOpsDays - India - 2018",
+    "endDate": "2018-12-08T23:00:00.000Z",
+    "startDate": "2018-12-07T23:00:00.000Z",
+    "keywords": "Devops",
+    "location": "Bengaluru India",
+    "cfp": {
+      "deadline": "2018-09-30T06:09:00.000Z",
+      "expenseSupport": false,
+      "url": "https://www.papercall.io/dodi18"
+    }
+  }
+]
